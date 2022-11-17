@@ -5,11 +5,13 @@ To run this project:
    ```sh
    git clone https://github.com/0yapunpun/flashcards_back.git
    ```
-2. Install NPM packages
+2. Import config file 
+ 
+3. Install NPM packages
    ```sh
    npm install
    ```
-3. Init the project
+4. Init the project
    ```sh
    npm start
    ```
