@@ -1,3 +1,5 @@
+Backend for flashcards application
+
 ## Setup
 To run this project: 
 
